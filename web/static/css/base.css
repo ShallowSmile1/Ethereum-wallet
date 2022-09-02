@@ -1,0 +1,21 @@
+.nav-link , .navbar-brand{
+    color: #8d8484;
+    
+}
+.nav-link{
+    margin-right: 1em !important;
+}
+
+ul{
+    vertical-align: middle;
+}
+.table thead th { 
+    color: white; 
+}
+
+td { 
+    color: white; 
+}
+th{
+    cursor:pointer;
+}
